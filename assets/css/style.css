@@ -1,0 +1,32 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;   
+}
+
+#cat {
+    float: left;
+    width: 70px;
+    margin-top: 22px;
+    margin-right: 10px;
+}
+
+header {
+    float: left;
+    font-size: 80px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    margin-right: 25px;
+}
+
+#buttons {
+    clear: right;
+}
+
+#searchBar {
+    clear: both;
+}
+
+
+#results {
+
+}
